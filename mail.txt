@@ -1,0 +1,72 @@
+--------------------------------------------------
+* AI NEVOIE DE UN NOU PRODUS DIN GAMA HYDRA ZEN? *
+--------------------------------------------------
+
+==============================
+
+Nu aștepta să rămâi fără produsul tău favorit!
+
+Versiune online
+https://www.lancome.ro/?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+MACHIAJ
+https://www.lancome.ro/produse-de-machiaj/?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+ÎNGRIJIRE TEN
+https://www.lancome.ro/ingrijire-ten/?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+PARFUMURI
+https://www.lancome.ro/parfumuri/?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+OFERTE SPECIALE
+https://www.lancome.ro/special-offers.html?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+==============================
+
+-5% REDUCERE & TRANSPORT GRATUIT* pentru următoarea Hydra Zen, folosind codul : HYDRAZEN5
+https://reelevant.run/64074ddfa442350007b3d6ad/262f0c77?rlvt-u=<%= recipient.record_id %>&rlvt-m=FR_LLD_Lancome_Trigger_Replenishment_TIUW&ean_produit=<%= targetData.orderLine.ean %>&mode=click?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+==============================
+
+AI NEVOIE DE UN NOU PRODUSDIN GAMA HYDRA ZEN?
+https://reelevant.run/64074ddfa442350007b3d6ad/262f0c77?rlvt-u=<%= recipient.record_id %>&rlvt-m=FR_LLD_Lancome_Trigger_Replenishment_TIUW&ean_produit=<%= targetData.orderLine.ean %>&mode=click?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+==============================
+
+image : Génifique
+https://reelevant.run/64074ddfa442350007b3d6ad/262f0c77?rlvt-u=<%= recipient.record_id %>&rlvt-m=FR_LLD_Lancome_Trigger_Replenishment_TIUW&ean_produit=<%= targetData.orderLine.ean %>&mode=click?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+Produsul tău Hydra Zen este pe cale să se termine? Este momentul să îl recomanzi!Beneficiezi de 5% REDUCERE & TRANSPORT GRATUIT* la următoarea ta comandă de produse din gama Hydra Zen.
+
+CODE : HYDRAZEN5
+
+CUMPĂRĂ ACUM
+https://www.lancome.ro/creme-hidratante-hydra-zen/?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+==============================
+
+image : 
+https://www.lancome.ro/servicii-diagnoza.html?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+==============================
+https://reelevant.run/6488377cd34442000759641e/a6239b9f?rlvt-u=<%= recipient.record_id %>&rlvt-m=FR_LLD_Lancome_Trigger_Replenishment_HydraZen&ean_produit=<%= targetData.orderLine.ean %>&mode=click?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+https://reelevant.run/6488377cd34442000759641e/262f0c77?rlvt-u=<%= recipient.record_id %>&rlvt-m=FR_LLD_Lancome_Trigger_Replenishment_HydraZen&ean_produit=<%= targetData.orderLine.ean %>&mode=click?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+==============================
+
+*Vânzare promoțională valabilă în limita stocului disponibil. Promoția se aplică produselor din gama HYDRA ZEN. Promoția nu este cumulabilă cu coduri promoționale de reducere (ex: codul de reducere pentru abonare la newsletter)  Promoția este cumulabilă cu campaniile active pe site în momentul plasării comenzii.
+
+3 MOTIVE PENTRU CARE SĂCUMPERI DE PE LANCOME.RO
+
+LIVRARE GRATUITĂPENTRU COMENZIPESTE 250 RON
+
+EȘANTIOANE GRATUITEPENTRU FIECARECOMANDĂ
+
+RETUR GRATUIT LA ORICE COMANDĂ
+
+CUMPĂRĂ ACUM (https://www.lancome.ro/?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT)
+https://www.facebook.com/LancomeRomania?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+https://www.instagram.com/lancomeofficial/?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+https://www.youtube.com/user/LancomeRomania?utm_source=email&utm_medium=email_trigger&utm_campaign=RO_LLD_LANCOME_TRIGGER_REPLENISHMENT_CONFORT
+
+Pentru detalii despre modul în care gestionăm datele tale, consultă Politica cu privire la protecția datelor personale.©2024 Lancôme. Toate drepturile rezervate.L'Oréal România SRL, Calea Floreasca, Nr.169A, Corp A, Etaj 6, Sector 1, BucureștiPolitica cu privire la protecția datelor personale | Contul meu |  Dezabonare
